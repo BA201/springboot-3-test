@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a222fcd-713d-479e-947a-c503a3e38273" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../software/Maven/apache-maven-3.8.6" />
+        <option name="userSettingsFile" value="D:\software\Maven\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RjcrB0lqRRMgmmTjRkqaIhu5bW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/IDEA/project/web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a222fcd-713d-479e-947a-c503a3e38273" name="Changes" comment="" />
+      <created>1687767128445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687767128445</updated>
+      <workItem from="1687767129440" duration="125000" />
+      <workItem from="1687767477683" duration="839000" />
+      <workItem from="1687771897331" duration="58000" />
+      <workItem from="1687772110769" duration="979000" />
+      <workItem from="1687773108477" duration="1859000" />
+      <workItem from="1687775000549" duration="3898000" />
+      <workItem from="1687921607680" duration="38000" />
+      <workItem from="1688021948691" duration="5000" />
+      <workItem from="1688022361509" duration="3000" />
+      <workItem from="1688223341752" duration="9000" />
+      <workItem from="1688278242607" duration="3000" />
+      <workItem from="1688279311652" duration="3000" />
+      <workItem from="1688396853439" duration="2000" />
+      <workItem from="1688477964374" duration="3000" />
+      <workItem from="1688791283887" duration="3000" />
+      <workItem from="1689525181972" duration="22000" />
+      <workItem from="1689678098131" duration="12000" />
+      <workItem from="1689757609692" duration="1241000" />
+      <workItem from="1689921398030" duration="1670000" />
+      <workItem from="1689923153351" duration="45000" />
+      <workItem from="1689923207731" duration="1526000" />
+      <workItem from="1689924830873" duration="241000" />
+      <workItem from="1689925169225" duration="545000" />
+      <workItem from="1689925725476" duration="43000" />
+      <workItem from="1689925776981" duration="1159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
